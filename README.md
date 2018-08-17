@@ -118,6 +118,7 @@ In this activity, you'll be creating an Amazon-like storefront with the MySQL sk
 
 ### Author: Aboozar Mojdeh
 - - -
+* https://www.linkedin.com/in/aboozar-mojdeh
 * https://github.com/aboozarmojdeh
 * http://www.webyouweb.com
 - - -
