@@ -14,8 +14,9 @@ Bamazon is a CRM that focuses on sales. It provides command-line interfaces for 
 ## Instruction
 In this activity, you'll be creating an Amazon-like storefront with the MySQL skills you learned this week. The app will take in orders from customers and deplete stock from the store's inventory. As a bonus task, you can program your app to track product sales across your store's departments and then provide a summary of the highest-grossing departments in the store.
 
-Make sure you save and require the MySQL and Inquirer npm packages in your homework files--your app will need them for data input and storage.
-
+--
+Make sure you save and require the MySQL and Inquirer npm packages in your files--your app will need them for data input and storage.
+--
 
 ### Challenge #1: Customer View (Minimum Requirement)
 
@@ -52,11 +53,7 @@ Make sure you save and require the MySQL and Inquirer npm packages in your homew
    * This means updating the SQL database to reflect the remaining quantity.
    * Once the update goes through, show the customer the total cost of their purchase.
 
-- - -
 
-* If this activity took you between 8-10 hours, then you've put enough time into this assignment. Feel free to stop here -- unless you want to take on the next challenge.
-
-- - -
 
 ### Challenge #2: Manager View (Next Level)
 
@@ -80,11 +77,7 @@ Make sure you save and require the MySQL and Inquirer npm packages in your homew
 
   * If a manager selects `Add New Product`, it should allow the manager to add a completely new product to the store.
 
-- - -
 
-* If you finished Challenge #2 and put in all the hours you were willing to spend on this activity, then rest easy! Otherwise continue to the next and final challenge.
-
-- - -
 
 ### Challenge #3: Supervisor View (Final Level)
 
