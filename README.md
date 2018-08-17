@@ -16,9 +16,13 @@ In this activity, you'll be creating an Amazon-like storefront with the MySQL sk
 
 - - -
 * Make sure you save and require the MySQL and Inquirer npm packages in your files--your app will need them for data input and storage.
+* you need to do below steps before running the app:
+1. npm init (https://docs.npmjs.com/cli/init)
+2. npm install mysql (https://www.npmjs.com/package/mysql)
+3. npm install inquirer (https://github.com/SBoudrias/Inquirer.js#readme)
 - - -
 
-### Challenge #1: Customer View (Minimum Requirement)
+### Challenge #1: Customer View 
 
 1. Create a MySQL Database called `bamazon`.
 
@@ -55,7 +59,7 @@ In this activity, you'll be creating an Amazon-like storefront with the MySQL sk
 
 
 
-### Challenge #2: Manager View (Next Level)
+### Challenge #2: Manager View 
 
 * Create a new Node application called `bamazonManager.js`. Running this application will:
 
@@ -79,7 +83,7 @@ In this activity, you'll be creating an Amazon-like storefront with the MySQL sk
 
 
 
-### Challenge #3: Supervisor View (Final Level)
+### Challenge #3: Supervisor View 
 
 1. Create a new MySQL table called `departments`. Your table should include the following columns:
 
@@ -109,3 +113,11 @@ In this activity, you'll be creating an Amazon-like storefront with the MySQL sk
 | 02            | Clothing        | 60000           | 100000        | 40000        |
 
 6. The `total_profit` column should be calculated on the fly using the difference between `over_head_costs` and `product_sales`. `total_profit` should not be stored in any database. You should use a custom alias.
+
+
+
+### Author: Aboozar Mojdeh
+- - -
+* https://github.com/aboozarmojdeh
+* http://www.webyouweb.com
+- - -
